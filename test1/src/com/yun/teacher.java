@@ -7,4 +7,5 @@ package com.yun;
 public class teacher {
     public String name;
     public int year;
+    public int age;
 }
