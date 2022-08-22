@@ -6,4 +6,6 @@ package com.yun;
  */
 public class student {
     private String name;
+    private int age;
+    private double score;
 }
