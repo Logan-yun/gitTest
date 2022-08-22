@@ -5,4 +5,5 @@ package com.yun;
  * @version: 1.0
  */
 public class student {
+    private String name;
 }
